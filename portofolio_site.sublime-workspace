@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/manage.py",
+			"settings":
+			{
+				"buffer_size": 547,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/m.moraru/dev/portofolio_site",
+		"/Users/m.moraru/dev/portofolio_site/src"
+	],
+	"file_history":
+	[
+		"/Users/m.moraru/Downloads/usage_api_2019-11-05_2019-12-31.csv",
+		"/Users/m.moraru/Downloads/marktplaats_tracking_codes.xml",
+		"/Users/m.moraru/Downloads/feeds/feed.php?country=gb_offset_0_limit_2",
+		"/Users/m.moraru/Downloads/feed.php?country=gb_offset_0_limit_1",
+		"/Users/m.moraru/Downloads/feed.php?country=gb_offset_2",
+		"/Users/m.moraru/Downloads/feed.php?country=gb_offset_1",
+		"/Users/m.moraru/Downloads/feed.php?country=gb_offset_0",
+		"/Users/m.moraru/Downloads/feed.php?country=se",
+		"/Users/m.moraru/Downloads/hY6GebbKgaVKT6q0y4mdGA== (2).xml",
+		"/Users/m.moraru/Downloads/hY6GebbKgaVKT6q0y4mdGA==.xml",
+		"/Users/m.moraru/OneDrive - CRITEO/01. Portofolio/08. MissEtam/tracking_script.js",
+		"/Users/m.moraru/Desktop/post mortem beslist/reasons list",
+		"/Users/m.moraru/Projects/hardcoded_banner/libs/responsiveslides.min.js",
+		"/Users/m.moraru/Downloads/criteo_non_reco_0611.csv",
+		"/Users/m.moraru/Desktop/roas_controller.csv",
+		"/Users/m.moraru/OneDrive - CRITEO/01. Portofolio/06. Beslist/01. Beslist NL/01. Vlook Server Values/roas_controller.csv",
+		"/Users/m.moraru/Downloads/beslistnl_feednames_1 (1).csv",
+		"/Users/m.moraru/Projects/hardcoded_banner/countdown/catawiki_v2/js/time_left_v0.js",
+		"/Users/m.moraru/Projects/hardcoded_banner/countdown/catawiki_v1/test/nl_300x250.html",
+		"/Users/m.moraru/Projects/hardcoded_banner/libs/countdown_v2_static.js",
+		"/Users/m.moraru/Downloads/criteo_nl (2).csv",
+		"/Users/m.moraru/Downloads/retargeting_Kleding 2.csv",
+		"/Users/m.moraru/Desktop/category table.html",
+		"/Users/m.moraru/Downloads/Catawikinl - InApp Android - S2S (1).csv",
+		"/Users/m.moraru/Downloads/Catawikinl - InApp Android - S2S_2DC.csv",
+		"/Users/m.moraru/Documents/beslist_nl_global_bestof_?export_date_y_m_d.csv",
+		"/Users/m.moraru/Downloads/nl_suitsupply_all_criteo.xml",
+		"/Users/m.moraru/Downloads/criteo_it.csv",
+		"/Users/m.moraru/Downloads/custom-beslistnl.xml"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/manage.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portofolio_site.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 336.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
