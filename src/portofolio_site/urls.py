@@ -21,7 +21,7 @@ from pages.views import home_view, projects_view, cv_view
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', home_view, name='home'),
-    path('projects/', projects_view, name='home'),
-    path('cv/', cv_view, name='home'),
+    path('projects/', projects_view, name='projects'),
+    path('cv/', cv_view, name='cv'),
 
 ]
